@@ -3,8 +3,7 @@
 import { useState } from "react";
 import { Phone, Mail, Clock, CheckCircle } from "lucide-react";
 
-// TODO: replace with a real Web3Forms access key from https://web3forms.com before launch.
-const WEB3FORMS_ACCESS_KEY = "REPLACE_WITH_REAL_ACCESS_KEY";
+const WEB3FORMS_ACCESS_KEY = "909cd6de-0fdf-4399-8ac0-3a99d72767fe";
 
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
