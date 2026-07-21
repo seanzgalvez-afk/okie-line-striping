@@ -34,7 +34,7 @@ export default function ServiceAreas() {
             lineHeight: 1.1,
             marginBottom: "16px",
           }}>
-            Serving All of Oklahoma
+            Serving Tulsa &amp; Surrounding Areas
           </h2>
           <p style={{
             fontFamily: "var(--font-dm), system-ui, sans-serif",
@@ -44,7 +44,7 @@ export default function ServiceAreas() {
             margin: "0 auto",
             lineHeight: 1.7,
           }}>
-            From Oklahoma City to Tulsa and everywhere in between — click your city or just reach out.
+            Based in Tulsa and available across the metro — click your city or just reach out.
           </p>
         </div>
 

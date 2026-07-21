@@ -34,7 +34,7 @@ export default function Header() {
               textTransform: "uppercase",
               color: "#ffd100",
             }}>
-              (539) 368-8266 &middot; Free Quotes Statewide
+              (539) 368-8266 &middot; Free Quotes — Tulsa Metro
             </span>
           </a>
         </div>

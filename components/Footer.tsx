@@ -45,7 +45,7 @@ export default function Footer() {
               fontSize: "13px",
               color: "#555",
             }}>
-              Straight Lines, Statewide.
+              Straight Lines, Tulsa to the Suburbs.
             </p>
           </div>
 
@@ -169,14 +169,14 @@ export default function Footer() {
             fontSize: "12px",
             color: "#333",
           }}>
-            © 2026 Okie Line Striping · Oklahoma
+            © 2026 Okie Line Striping · Tulsa, Oklahoma
           </p>
           <p style={{
             fontFamily: "var(--font-dm), system-ui, sans-serif",
             fontSize: "12px",
             color: "#333",
           }}>
-            Proudly serving Oklahoma statewide
+            Proudly serving the Tulsa metro &amp; surrounding areas
           </p>
         </div>
       </div>

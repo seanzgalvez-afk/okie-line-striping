@@ -47,7 +47,7 @@ export default function Hero() {
             textTransform: "uppercase",
             color: "#ffd100",
           }}>
-            Serving All of Oklahoma
+            Serving Tulsa &amp; Surrounding Areas
           </span>
         </div>
 
@@ -75,7 +75,7 @@ export default function Hero() {
           margin: "0 auto 36px",
           lineHeight: 1.7,
         }}>
-          Crisp parking lot striping, ADA-compliant markings, and warehouse floor lines — done right the first time, statewide across Oklahoma.
+          Crisp parking lot striping, ADA-compliant markings, and warehouse floor lines — done right the first time, across Tulsa and the surrounding area.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-14">
@@ -135,7 +135,7 @@ export default function Hero() {
             { icon: <Zap size={15} />, label: "Free Estimates" },
             { icon: <Shield size={15} />, label: "ADA-Compliant Work" },
             { icon: <Smartphone size={15} />, label: "Call or Text Anytime" },
-            { icon: <MapPin size={15} />, label: "Statewide Oklahoma Service" },
+            { icon: <MapPin size={15} />, label: "Tulsa Metro Service" },
           ].map((item) => (
             <span key={item.label} className="flex items-center gap-2" style={{
               fontFamily: "var(--font-dm), system-ui, sans-serif",

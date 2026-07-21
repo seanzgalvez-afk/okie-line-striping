@@ -15,7 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${baseUrl}/line-striping/${slug}`,
     lastModified,
     changeFrequency: "weekly" as const,
-    priority: slug === "oklahoma-city" || slug === "tulsa" ? 0.95 : 0.85,
+    priority: slug === "tulsa" ? 0.95 : 0.85,
   }));
 
   return [...home, ...cities];
